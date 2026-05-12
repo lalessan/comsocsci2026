@@ -1,0 +1,19 @@
+| Date  | Activity               | Details                                      | Month | Weekday |
+|:------|:-----------------------|:---------------------------------------------|:------|:--------|
+| Feb 4 | Lecture 1              | Intro to Computational Social Science        | Feb   | Wed     |
+| Feb 11 | Lecture 2             | Data 1: Gathering Data                       | Feb   | Wed     |
+| Feb 18 | Lecture 3             | Data 2: Distributions in Empirical Data      | Feb   | Wed     |
+| Feb 25 | Lecture 4             |                                              | Feb   | Wed     |
+| Mar 3 | Assignment 1           | Assignment Due                               | Mar   | Tue     |
+| Mar 4 | Lecture 5              |                                              | Mar   | Wed     |
+| Mar 11 | Lecture 6             |                                              | Mar   | Wed     |
+| Mar 18 | Lecture 7             |                                              | Mar   | Wed     |
+| Mar 25 | Lecture 8             |                                              | Mar   | Wed     |
+| Apr 1 | Easter Break           | Easter Break                                 | Apr   | Wed     |
+| Apr 7 | Assignment 2           | Assignment Due                               | Apr   | Tue     |
+| Apr 8 | Project Assignment     | Independent Preparation Work                 | Apr   | Wed     |
+| Apr 15 | Project Assignment    | Optional Meeting with teacher                | Apr   | Wed     |  
+| Apr 22 | Project Assignment    | Independent Preparation Work                 | Apr   | Wed     |
+| Apr 28 | Project Assignment    | Assignment Due                               | Apr   | Tue     |
+| Apr 29 | Lecture 9             | Presentations                                | Apr   | Wed     |
+| May 22 | Project Assignment B  | Assignment Due                               | May   | Fri     |
